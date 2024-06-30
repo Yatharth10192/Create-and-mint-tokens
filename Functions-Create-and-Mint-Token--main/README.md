@@ -19,8 +19,8 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the requireInstance, assertInstance and revertInstance function.
 
 ## Authors
-vaibhav chhillar 
-vaicozcchillar@gmail.com
+Yatharth Sharma
+Email - yatharths10192@gmail.com
 
 ## License
 
